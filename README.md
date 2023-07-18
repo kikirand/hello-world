@@ -6,6 +6,3 @@
 "age" : 20
 }
 ```
-[^1]
-term
-: definition
